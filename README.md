@@ -1,3 +1,5 @@
+![STEAM](./img/steam.png)
+
 # DI_101
 
 ### Paskaitų vaizdo įrašai:
