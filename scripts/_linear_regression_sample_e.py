@@ -8,7 +8,7 @@ def model(x):
 
 def plot_regression_line(x, y):
     plt.figure(figsize=(12,6))
-    plt.scatter(x, y, color = "m", s = 80)
+    plt.scatter(x, y, color = "y", s = 80)
     plt.plot(x, model(x))
     plt.xlabel('x')
     plt.ylabel('y')

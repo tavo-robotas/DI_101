@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-theta1 = 0.5
+theta1 = 2
 
 x = np.array([1,2,3])
 y = np.array([1,2,3])
@@ -19,9 +19,10 @@ def hypothesis(x, theta):
 
 fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(20,5))
 ax[0].plot(x, hypothesis(x,theta1), marker='x',color='k')
-ax[0].scatter(x, y, marker='x', s=80, c='k')
+ax[0].scatter(x, y, marker='x', s=80, c='red')
 
-#ax[1].scatter(theta1, cost_func(theta1), marker='x', s=150, c='b')     
+print('J(θ1): ',cost_func(theta1))
+ax[1].scatter(theta1, cost_func(theta1), marker='x', s=150, c='b')     
 ax[1].set_title('kaina')
 ax[0].set_title('hipotezė')
 ax[1].set_xlim(-0.5,3)
