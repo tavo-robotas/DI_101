@@ -16,3 +16,4 @@
 - 2022/11/08 : https://youtu.be/g5fGMnKXpEQ
 - 2022/11/09 : https://youtu.be/rGS7uz6WBYk
 - 2022/11/11 : https://youtu.be/m1kjr27z-Rs
+- 2022/11/15 : https://youtu.be/DccdgPcZNbQ
