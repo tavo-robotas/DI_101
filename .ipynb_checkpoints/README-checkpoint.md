@@ -23,7 +23,4 @@
 - 2022/12/01 : https://youtu.be/VRmicvCkO6w
 - 2022/12/02 : https://youtu.be/SyzHKYTEs5c
 - 2022/12/06 : https://youtu.be/q1jfDYS4X4c
-- 2022/12/14 : 
-- 2022/12/16 :
-- 2022/12/19 :
-- 2022/12/21 :
+- 2022/12/14 : https://youtu.be/FXxlpl9Gdn0
